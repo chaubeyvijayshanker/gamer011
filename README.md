@@ -17,7 +17,7 @@
 
 </body>
 </html>
-<center><img src="whitehat jr.jpeg"></center>
+<center><img src="file:///Users/apple/Desktop/Ashutosh%20study%20computer%20folder/whitehat%20jr.jpeg"></center>
 <center>Your Child will learn to connect math & the real world. Clear concepts & enjoy learning. Designed to help kids develop Mathematical reasoning & problem solving...</center>
 <center><a href="https://code.whitehatjr.com/s/dashboard">
   open whitehat jr</a></center>
